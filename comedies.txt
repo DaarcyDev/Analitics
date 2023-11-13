@@ -1,0 +1,33 @@
+Unbreakable Kimmy Schmidt,Comedy,comedy,6-Mar-15,"4 seasons, 51 episodes",4,51,23–53 min.,23,53,Ended,0,Comedy,English
+Master of None,Comedy,comedy,6-Nov-15,"2 seasons, 20 episodes",2,20,21–57 min.,21,57,Ended,0,Comedy,English
+Flaked,Comedy,comedy,11-Mar-16,"2 seasons, 14 episodes",2,14,30–34 min.,30,34,Ended,0,Comedy,English
+Lady Dynamite,Comedy,comedy,20-May-16,"2 seasons, 20 episodes",2,20,26–36 min.,26,36,Ended,0,Comedy,English
+Haters Back Off,Comedy,comedy,14-Oct-16,"2 seasons, 16 episodes",2,16,24–36 min.,24,36,Ended,0,Comedy,English
+Girlboss,Comedy,comedy,21-Apr-17,"1 season, 13 episodes",1,13,24–29 min.,24,29,Ended,0,Comedy,English
+GLOW,Comedy,comedy,23-Jun-17,"2 seasons, 20 episodes",2,20,27–46 min.,27,46,Renewed,1,Comedy,English
+Friends from College,Comedy,comedy,14-Jul-17,"2 seasons, 16 episodes",2,16,26–34 min.,26,34,Ended,0,Comedy,English
+Disjointed,Comedy,comedy,25-Aug-17,"2 parts, 20 episodes",0,20,23–32 min.,23,32,Ended,0,Comedy,English
+All About the Washingtons,Comedy,comedy,10-Aug-18,"1 season, 10 episodes",1,10,22–27 min.,22,27,Ended,0,Comedy,English
+The Kominsky Method,Comedy,comedy,16-Nov-18,"1 season, 8 episodes",1,8,23–34 min.,23,34,Renewed,1,Comedy,English
+Russian Doll,Comedy,comedy,1-Feb-19,"1 season, 8 episodes",1,8,25–30 min.,25,30,Renewed,1,Comedy,English
+After Life,Comedy,comedy,8-Mar-19,"1 season, 6 episodes",1,6,25–31 min.,25,31,Renewed,1,Comedy,English
+Turn Up Charlie,Comedy,comedy,15-Mar-19,"1 season, 8 episodes",1,8,25–29 min.,25,29,Pending,1,Comedy,English
+Huge in France,Comedy,comedy,12-Apr-19,"1 season, 8 episodes",1,8,28–34 min.,28,34,Pending,1,Comedy,English
+Special,Comedy,comedy,12-Apr-19,"1 season, 8 episodes",1,8,12–17 min.,12,17,Pending,1,Comedy,English
+Lunatics,Comedy,comedy,19-Apr-19,"1 season, 10 episodes",1,10,33–38 min.,33,38,Pending,1,Comedy,English
+It's Bruno!,Comedy,comedy,17-May-19,"1 season, 8 episodes",1,8,12–21 min.,12,21,Pending,1,Comedy,English
+Mr. Iglesias,Comedy,comedy,21-Jun-19,"1 season, 10 episodes",1,10,26–31 min.,26,31,Pending,1,Comedy,English
+Family Reunion[64],Comedy,comedy,10-Jul-19,TBA,0,0,TBA,0,0,Pending,1,Comedy,English
+The Politician,Comedy,comedy,27-Sep-19,TBA,0,0,TBA,0,0,Renewed,1,Comedy,English
+Paradise PD,Comedy,comedy,31-Aug-18,"1 season, 10 episodes",1,10,27–30 min.,27,30,Renewed,1,Animation,English
+Tuca & Bertie,Comedy,comedy,3-May-19,"1 season, 10 episodes",1,10,25–26 min.,25,26,Pending,1,Animation,English
+Aggretsuko,Comedy,comedy,20-Apr-18,"2 seasons, 20 episodes",2,20,15–20 min.,15,20,Pending,1,Anime,English
+Project Mc2,Comedy,comedy,7-Aug-16,"6 parts, 26 episodes",0,26,22–34 min.,22,34,Ended,0,Children,English
+Best.Worst.Weekend.Ever.,Comedy,comedy,19-Oct-18,8 episodes,0,8,22–28 min.,22,28,Miniseries,0,Children,English
+Malibu Rescue: The Series,Comedy,comedy,3-Jun-19,"1 season, 8 episodes",1,8,22–26 min.,22,26,Pending,1,Children,English
+Club de Cuervos Presents: The Ballad of Hugo Sánchez,Comedy,comedy,17-Jun-18,"1 season, 6 episodes",1,6,29–37 min.,29,37,Ended,0,ForeignLanguage,Spanish
+The House of Flowers,Comedy,comedy,10-Aug-18,"1 season, 13 episodes",1,13,27–37 min.,27,37,Renewed,1,ForeignLanguage,Spanish
+Family Business,Comedy,comedy,28-Jun-19,TBA,0,0,29 min.,0,0,Pending,1,ForeignLanguage,French
+Russell Peters Vs. the World,Comedy,comedy,3-Oct-13,"1 season, 4 episodes",1,4,26–29 min.,26,29,Ended,0,DocuSeries,English
+Chelsea Does,Comedy,comedy,23-Jan-16,"1 season, 4 episodes",1,4,62–74 min.,62,74,Ended,0,DocuSeries,English
+The Joel McHale Show with Joel McHale,Comedy,comedy,18-Feb-18,"2 parts, 19 episodes",0,19,22–28 min.,22,28,Ended,0,VarietyTalk,English
